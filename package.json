@@ -1,0 +1,13 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "description": "Use of library Express\r npm init      accept all defaults\r expressjs.com      for docs\r npm install express@4.14.0 --save",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", "start": "node server.js"  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
